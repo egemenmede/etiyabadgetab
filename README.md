@@ -68,3 +68,5 @@ etiyaBadgeTab.selectEtiyaBadgeTab(0)
 etiyaBadgeTab.selectEtiyaBadgeTab(0)
                 .createEtiyaBadgeTab();
 ```
+
+2017 Etiya Badge Tab for Android (http://www.etiya.com) - Egemen Mede (:penguin: http://www.delipenguen.com)
