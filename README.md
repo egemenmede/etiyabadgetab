@@ -8,6 +8,20 @@ EtiyaBadgeTab, Android için hazırlanmış bir Tab kütüphanesidir. Android'te
 
 ![Örnek EtiyaBadgeTab](http://www.delipenguen.com/wp-content/uploads/2017/03/badge_sample.png)
 
+### Kurulum
+
+**Gradle**
+```
+compile 'com.etiya.etiyabadgetablib:etiyabadgetablib:0.0.3'
+```
+```
+repositories {
+    maven {
+        url  "http://dl.bintray.com/egemenmede/etiyabadgetab" 
+    }
+}
+```
+
 ### Kullanım Şekli
 
 ```java
@@ -68,5 +82,4 @@ etiyaBadgeTab.selectEtiyaBadgeTab(0)
 etiyaBadgeTab.selectEtiyaBadgeTab(0)
                 .createEtiyaBadgeTab();
 ```
-
 2017 Etiya Badge Tab for Android (http://www.etiya.com) - Egemen Mede (:penguin: http://www.delipenguen.com)
