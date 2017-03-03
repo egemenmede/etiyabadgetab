@@ -1,5 +1,8 @@
 # EtiyaBadgeTab (etiyabadgetab)
 
+[![Download](https://api.bintray.com/packages/egemenmede/etiyabadgetab/etiyabadgetablib/images/download.svg?version=0.0.3) ](https://bintray.com/egemenmede/etiyabadgetab/etiyabadgetablib/0.0.3/link)
+[![API](https://img.shields.io/badge/API-16%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=16)
+
 EtiyaBadgeTab, Android için hazırlanmış bir Tab kütüphanesidir. Android'te kullanılan Tab kütüphanesine alternatif olarak **badge** desteği ve çeşitli özelleştirmeler sunmaktadır. :penguin:
 
 > **badge**: Kelime anlamı rozet olan badge'ı, tab üzerindeki küçük simgeler olarak tanımlayabiliriz.
