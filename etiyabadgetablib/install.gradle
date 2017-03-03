@@ -1,0 +1,39 @@
+apply plugin: 'com.github.dcendents.android-maven'
+
+group = 'com.etiya.etiyabadgetablib' // CREATE A GROUP ID FOR YOUR LIBRARY
+
+install {
+    repositories.mavenInstaller {
+        pom {
+            project {
+                packaging 'aar'
+                groupId 'com.etiya.etiyabadgetablib' // CREATE A GROUP ID FOR YOUR LIBRARY
+                artifactId 'etiyabadgetablib' // THE NAME OF YOUR MODULE
+
+                name 'EtiyaBadgeTab' // YOUR LIBRARY NAME
+                description 'EtiyaBadgeTab, Android için hazırlanmış bir Tab kütüphanesidir.' // YOUR LIBRARY DESCRIPTION
+                url 'https://github.com/egemenmede/etiyabadgetab' // YOUR SITE
+
+                licenses {
+                    license {
+                        name 'The Apache Software License, Version 2.0'
+                        url 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+                    }
+                }
+                developers {
+                    developer {
+                        id 'egemenmede' //YOUR ID
+                        name 'Egemen Mede' //YOUR NAME
+                        email 'egemenmede@gmail.com' //YOUR EMAIL
+                    }
+                }
+                scm {
+                    connection 'https://github.com/egemenmede/etiyabadgetab.git' // YOUR GIT REPO
+                    developerConnection 'https://github.com/egemenmede/etiyabadgetab.git' // YOUR GIT REPO
+                    url 'https://github.com/egemenmede/etiyabadgetab' // YOUR SITE
+
+                }
+            }
+        }
+    }
+}
