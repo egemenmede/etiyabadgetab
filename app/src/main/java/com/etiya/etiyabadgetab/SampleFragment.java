@@ -10,6 +10,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
+import com.etiya.etiyabadgetablib.EtiyaBadgeTab;
+
 
 /**
  * A simple {@link Fragment} subclass.
