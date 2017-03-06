@@ -17,13 +17,6 @@ EtiyaBadgeTab, Android için hazırlanmış bir Tab kütüphanesidir. Android'te
 ```
 compile 'com.etiya.etiyabadgetablib:etiyabadgetablib:0.0.3'
 ```
-```
-repositories {
-    maven {
-        url  "http://dl.bintray.com/egemenmede/etiyabadgetab" 
-    }
-}
-```
 
 ### Kullanım Şekli
 
