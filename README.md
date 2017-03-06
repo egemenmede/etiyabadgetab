@@ -87,7 +87,7 @@ etiyaBadgeTab.selectEtiyaBadgeTab(0)
 ```
 2017 Etiya Badge Tab for Android (http://www.etiya.com) - Egemen Mede (:penguin: http://www.delipenguen.com)
 
-# Lisans
+### Lisans
 
 Copyright (C) 2017 Egemen Mede
 
