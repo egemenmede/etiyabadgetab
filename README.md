@@ -1,5 +1,6 @@
 # EtiyaBadgeTab (etiyabadgetab)
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Etiya%20Badge%20Tab-blue.svg?style=flat)](https://android-arsenal.com/details/1/5418)
 [![Download](https://api.bintray.com/packages/egemenmede/etiyabadgetab/etiyabadgetablib/images/download.svg?version=0.0.3) ](https://bintray.com/egemenmede/etiyabadgetab/etiyabadgetablib/0.0.3/link)
 [![API](https://img.shields.io/badge/API-16%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=16)
 
