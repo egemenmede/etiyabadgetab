@@ -3,6 +3,7 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Etiya%20Badge%20Tab-blue.svg?style=flat)](https://android-arsenal.com/details/1/5418)
 [![Download](https://api.bintray.com/packages/egemenmede/etiyabadgetab/etiyabadgetablib/images/download.svg?version=0.0.3) ](https://bintray.com/egemenmede/etiyabadgetab/etiyabadgetablib/0.0.3/link)
 [![API](https://img.shields.io/badge/API-16%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=16)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/35baa44489164d01ab38452d6f883273)](https://www.codacy.com/app/egemenmede/etiyabadgetab?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=egemenmede/etiyabadgetab&amp;utm_campaign=Badge_Grade)
 
 EtiyaBadgeTab, Android için hazırlanmış bir Tab kütüphanesidir. Android'te kullanılan Tab kütüphanesine alternatif olarak **badge** desteği ve çeşitli özelleştirmeler sunmaktadır. :penguin:
 
